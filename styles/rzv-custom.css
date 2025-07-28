@@ -1,0 +1,28 @@
+.social a svg,
+.connect .icons a svg {
+  display: none;
+}
+
+.dDwtbs .social,
+.hfnMVa .connect .icons {
+  gap: 18px;
+}
+
+.social a,
+.connect .icons a {
+  width: 22px;
+  height: 22px;
+  background-size: contain;
+  background-repeat: no-repeat;
+  opacity: 0.8;
+}
+
+.social a:first-child,
+.connect .icons a:first-child {
+  background-image: url("https://www.svgrepo.com/show/394559/whatsapp.svg");
+}
+
+.social a:last-child,
+.connect .icons a:last-child {
+  background-image: url("https://www.svgrepo.com/show/473664/instagram.svg");
+}
